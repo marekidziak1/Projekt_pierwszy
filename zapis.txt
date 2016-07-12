@@ -1,0 +1,167 @@
+:: C Z Y T E L N I C Y ::
+
+czytelnik1
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul1
+
+Tytul2
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+czytelnik2
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul3
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+czytelnik3
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul4
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+czytelnik4
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul5
+
+Tytul6
+
+Tytul7
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+czytelnik5
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul8
+
+Tytul9
+
+Tytul1
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+czytelnik6
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul2
+
+Tytul3
+
+Tytul4
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+czytelnik7
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul5
+
+Tytul6
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+czytelnik8
+
+TO CZEGO NIE UDAŁO IM SIĘ WYPOŻYCZYĆ: 
+
+Tytul7
+
+Tytul8
+
+Tytul9
+
+ILE JEST WINIEN BIBLIOTEKOM: 
+Bibliotece 0 jest winien: 0.0 zł
+Bibliotece 1 jest winien: 0.0 zł
+Bibliotece 2 jest winien: 0.0 zł
+Bibliotece 3 jest winien: 0.0 zł
+Bibliotece 4 jest winien: 0.0 zł
+Jest winien bibliotekom: 0.0 zł
+:: B I B L I O T E K I ::
+
+biblioteka1
+
+KSIAZKI NA STANIE?, CZY WYPOŻYCZONE?:
+
+09871 Tytul1 - jest na stanie
+28656 Tytul6 - jest na stanie
+Ile zarobi biblioteka 0: 
+0.0 zł
+biblioteka2
+
+KSIAZKI NA STANIE?, CZY WYPOŻYCZONE?:
+
+76892 Tytul2 - jest na stanie
+86867 Tytul7 - jest na stanie
+Ile zarobi biblioteka 1: 
+0.0 zł
+biblioteka3
+
+KSIAZKI NA STANIE?, CZY WYPOŻYCZONE?:
+
+72493 Tytul3 - jest na stanie
+11128 Tytul8 - jest na stanie
+Ile zarobi biblioteka 2: 
+0.0 zł
+biblioteka4
+
+KSIAZKI NA STANIE?, CZY WYPOŻYCZONE?:
+
+76494 Tytul4 - jest na stanie
+23429 Tytul9 - jest na stanie
+Ile zarobi biblioteka 3: 
+0.0 zł
+biblioteka5
+
+KSIAZKI NA STANIE?, CZY WYPOŻYCZONE?:
+
+36595 Tytul5 - jest na stanie
+Ile zarobi biblioteka 4: 
+0.0 zł
